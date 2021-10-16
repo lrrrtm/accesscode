@@ -7,3 +7,5 @@ Artem Larionenko (https://github.com/lrrrtm), Ilya Bolgov (https://github.com/et
 
 # Prototype
 ![Фото](https://github.com/lrrrtm/ACCESSCODE/blob/main/prototypePicture.jpg)
+![](https://github.com/lrrrtm/ACCESSCODE/blob/main/developing/figure1.png)
+![](https://github.com/lrrrtm/ACCESSCODE/blob/main/developing/visualization3.png)
