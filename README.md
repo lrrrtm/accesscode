@@ -14,4 +14,4 @@ extensions that can be added to virtually any full-size PC for physical protecti
 
 # Authors
 [Artem Larionenko](https://github.com/lrrrtm)  
-[Ilya Bolgov]
+Ilya Bolgov
