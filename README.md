@@ -4,7 +4,7 @@
 This is a computer science engineering project, which is an add-on module
 extensions that can be added to virtually any full-size PC for physical protection against intrusion.
 
-# [Promo video] ()
+# [Promo video] (https://drive.google.com/file/d/1wVusc08j294pELW--wnQ3UPA1BO8zzGg/view?usp=sharing)
 # [Documentation](https://github.com/lrrrtm/ACCESSCODE/blob/main/Documentation.pdf)
 
 # Prototype
